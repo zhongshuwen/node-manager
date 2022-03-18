@@ -1,4 +1,4 @@
-module github.com/dfuse-io/node-manager
+module github.com/zhongshuwen/node-manager
 
 go 1.12
 
