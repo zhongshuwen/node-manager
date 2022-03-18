@@ -15,7 +15,7 @@
 package metrics
 
 import (
-	"github.com/dfuse-io/dmetrics"
+	"github.com/zhongshuwen/dmetrics"
 )
 
 var NodeosMetricset = dmetrics.NewSet()
