@@ -11,12 +11,10 @@ require (
 	github.com/dfuse-io/dgrpc v0.0.0-20200406214416-6271093e544c
 	github.com/dfuse-io/dstore v0.1.0
 	github.com/dfuse-io/logging v0.0.0-20200407175011-14021b7a79af
+	github.com/dfuse-io/manageos v0.0.1
 	github.com/dfuse-io/shutter v1.4.1-0.20200319040708-c809eec458e6
-	github.com/dustin/go-humanize v1.0.0 // indirect
 	github.com/eoscanada/eos-go v0.9.1-0.20200506160036-5e090ae689ef
 	github.com/eoscanada/pitreos v1.0.1-0.20190618150521-240402eb30e2
-	github.com/frostschutz/go-fibmap v0.0.0-20160825162329-b32c231bfe6a // indirect
-	github.com/ghodss/yaml v1.0.0 // indirect
 	github.com/google/renameio v0.1.0
 	github.com/gorilla/mux v1.7.0
 	github.com/klauspost/compress v1.10.2
@@ -24,7 +22,7 @@ require (
 	github.com/prometheus/client_golang v1.12.1 // indirect
 	github.com/spf13/viper v1.3.2
 	github.com/stretchr/testify v1.7.0
-	github.com/zhongshuwen/dmetrics v0.0.1 // indirect
+	github.com/zhongshuwen/dmetrics v0.0.1
 	go.uber.org/atomic v1.9.0
 	go.uber.org/multierr v1.8.0 // indirect
 	go.uber.org/zap v1.21.0
