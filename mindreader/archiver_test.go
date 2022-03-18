@@ -28,10 +28,10 @@ import (
 
 	"github.com/dfuse-io/bstream"
 	"github.com/dfuse-io/bstream/blockstream"
-	"github.com/dfuse-io/dgrpc"
 	"github.com/dfuse-io/dstore"
 	"github.com/eoscanada/eos-go"
 	"github.com/klauspost/compress/zstd"
+	"github.com/streamingfast/dgrpc"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

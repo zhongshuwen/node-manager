@@ -24,7 +24,6 @@ import (
 	"github.com/dfuse-io/manageos"
 	"github.com/zhongshuwen/dmetrics"
 
-	"github.com/dfuse-io/dgrpc"
 	"github.com/dfuse-io/manageos/metrics"
 	"github.com/dfuse-io/manageos/mindreader"
 	nodeosMindreader "github.com/dfuse-io/manageos/mindreader/nodeos"
@@ -33,6 +32,7 @@ import (
 	"github.com/dfuse-io/manageos/superviser/nodeos"
 	"github.com/dfuse-io/shutter"
 	"github.com/gorilla/mux"
+	"github.com/streamingfast/dgrpc"
 	"go.uber.org/zap"
 )
 
